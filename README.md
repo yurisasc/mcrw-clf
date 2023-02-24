@@ -1,5 +1,5 @@
 ---
-title: Scenery
+title: Minecraft/Real world classifier
 emoji: 🚀
 colorFrom: pink
 colorTo: red
