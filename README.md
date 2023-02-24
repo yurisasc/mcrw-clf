@@ -1,15 +1,3 @@
----
-title: Minecraft/Real world classifier
-emoji: 🚀
-colorFrom: pink
-colorTo: red
-sdk: gradio
-sdk_version: 3.19.1
-app_file: app.py
-pinned: false
-license: apache-2.0
----
-
 # Serverless Minecraft/Real world classifier
 
 This is an example of how to deploy a serverless machine learning application with Gradio and AWS Lambda.
